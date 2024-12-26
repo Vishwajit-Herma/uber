@@ -403,7 +403,7 @@ The Uber-Clone project is a ride-hailing application built using the MERN (Mongo
 - Experience real-time updates via socket communication.
 
 ## Demo Video
-[Click here to watch the demo video](https://youtu.be/9lADj9DeqKY)
+https://youtu.be/9lADj9DeqKY
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any changes or enhancements.
