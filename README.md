@@ -1,4 +1,3 @@
-# Uber
 # Uber-Clone Project
 
 ## Overview
