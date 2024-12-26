@@ -3,6 +3,10 @@
 ## Overview
 The Uber-Clone project is a ride-hailing application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project aims to replicate key features of the popular Uber app, including user and rider registration, ride searching, live location tracking, and more.
 
+
+## Demo Video
+[Click here to watch the demo video]([https://link-to-demo-video.com](https://youtu.be/9lADj9DeqKY))
+
 ## Features
 - **User and Rider Authentication**:
   - Login and Register as a user or rider.
@@ -125,7 +129,6 @@ The Uber-Clone project is a ride-hailing application built using the MERN (Mongo
      cd ../frontend
      npm start
      ```
-
 ## Usage
 - Register as a user or rider.
 - Search for rides and track them live.
